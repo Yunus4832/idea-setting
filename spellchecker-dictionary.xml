@@ -3,6 +3,7 @@
     <words>
       <w>bpid</w>
       <w>curdate</w>
+      <w>hmmss</w>
       <w>liveness</w>
       <w>makedate</w>
       <w>mapleader</w>
