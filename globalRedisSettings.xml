@@ -1,0 +1,17 @@
+<application>
+  <component name="GlobalRedisConfiguration">
+    <option name="serverConfigurations">
+      <list>
+        <ServerConfiguration>
+          <option name="label" value="Local" />
+          <option name="password" value="" />
+          <option name="sercurityInfo">
+            <SercurityInfo />
+          </option>
+          <option name="serverUrl" value="yunus.top:6379" />
+          <option name="userName" value="" />
+        </ServerConfiguration>
+      </list>
+    </option>
+  </component>
+</application>
