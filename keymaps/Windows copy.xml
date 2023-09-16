@@ -20,4 +20,8 @@
   <action id="VimPluginToggle">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
   </action>
+  <action id="copilot.applyInlays">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
 </keymap>
