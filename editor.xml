@@ -11,5 +11,6 @@
     <multiLine>false</multiLine>
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\bdone\b.*" />
   </component>
 </application>
