@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="D:\MSYS2\usr\bin\zsh.exe" />
+    <option name="myTabName" value="ZSH" />
+  </component>
+</application>
