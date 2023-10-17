@@ -3,6 +3,10 @@
   <action id="$SwitchTranslationEngineAction" />
   <action id="$TranslateAndReplaceAction" />
   <action id="AceAction" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
