@@ -3,6 +3,9 @@
   <action id="$SwitchTranslationEngineAction" />
   <action id="$TranslateAndReplaceAction" />
   <action id="AceAction" />
+  <action id="AceReverseAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt equals" />
@@ -22,7 +25,7 @@
   <action id="GotoClass" />
   <action id="ParameterInfo" />
   <action id="VimPluginToggle">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
   <action id="copilot.applyInlays">
     <keyboard-shortcut first-keystroke="tab" />
