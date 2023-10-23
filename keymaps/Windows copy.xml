@@ -1,4 +1,12 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="$ShowTranslationDialogAction" />
+  <action id="$SwitchTranslationEngineAction" />
+  <action id="$TranslateAndReplaceAction" />
+  <action id="AceAction" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
@@ -7,7 +15,17 @@
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="FileChooser.TogglePathBar" />
+  <action id="GotoClass" />
+  <action id="ParameterInfo" />
   <action id="VimPluginToggle">
-    <keyboard-shortcut first-keystroke="alt semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="copilot.applyInlays">
+    <keyboard-shortcut first-keystroke="tab" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
 </keymap>
