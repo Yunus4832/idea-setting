@@ -3,9 +3,6 @@
   <action id="$SwitchTranslationEngineAction" />
   <action id="$TranslateAndReplaceAction" />
   <action id="AceAction" />
-  <action id="AceReverseAction">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
-  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt equals" />
